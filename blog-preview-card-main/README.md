@@ -1,4 +1,4 @@
-🌐Link: https://cosmic-cucurucho-f46b6d.netlify.app/
+🌐Link: https:https://the-blog-preview-cardd.vercel.app/
 
 
 
