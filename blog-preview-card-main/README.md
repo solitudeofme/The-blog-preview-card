@@ -1,4 +1,4 @@
-🌐Link: https:https://the-blog-preview-cardd.vercel.app/
+🌐Link: https://the-blog-preview-card-rrq7.vercel.app/
 
 
 
