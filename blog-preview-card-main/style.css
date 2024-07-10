@@ -1,2 +1,60 @@
-.attribution { font-size: 11px; text-align: center; }
+body{
+    background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree", sans-serif;
+}
+.main{
+background-color: white;
+ display: block;
+ margin: 9% auto 5%;
+ width: 386px;
+ height: 529px;
+ border: 1px solid black;
+ box-shadow: 7px 7px 1px black;
+ border-radius: 20px;
+}
+.image-main{
+display: block;
+margin: 4% auto;
+width:88%;
+border-radius: 10px;
+}
+.learning h4{
+    background-color:hsl(47, 88%, 63%);
+    font-weight: 900;
+    font-size: small;
+    border-radius:4px;
+    text-align: center;
+    margin: auto 6%;
+    padding: 1.5% 0.5%;
+    width: 20%;
+}
+.learning p{
+    margin: 4% 6%;
+    font-weight: 500;
+}
+.foundations h3{
+    margin:6% 6%;
+    font-weight: 800;
+    font-size: 150%;
+}
+.foundations p{
+    margin:auto 6%;
+    color: hsl(0, 0%, 50%);
+}
+.avatar{
+    display: flex;
+    gap: 0.5rem;
+    margin: 8% 6%;
+}
+.image-avatar{
+   
+    width: 10%;
+    height: 10%;
+}
+.avatar p {
+    margin: 2% 1%;
+ font-weight: 800;
+    }
+
+.attribution { font-size: 11px; text-align: center; color:hsl(0, 0%, 50%) ; margin-top: 5%;}
 .attribution a { color: hsl(228, 45%, 44%); }
