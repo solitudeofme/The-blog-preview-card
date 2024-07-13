@@ -1,4 +1,4 @@
-🌐Link: https://the-blog-preview-card-rrq7.vercel.app/
+🌐Link: https:https://deft-syrniki-17e803.netlify.app/
 
 
 
