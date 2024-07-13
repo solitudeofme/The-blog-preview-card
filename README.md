@@ -1,10 +1,10 @@
-🌐Link: https://the-blog-preview-card-rrq7.vercel.app/
+🌐Link: https:https://the-blog-preview-cardd.vercel.app/
 
 
 
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
+
 
 ## Welcome! 👋
 
