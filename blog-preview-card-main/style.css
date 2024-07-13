@@ -28,6 +28,9 @@ body {
   padding: 1.5% 0.5%;
   width: 65px;
 }
+.foundations h3:hover {
+  color: hsl(47, 88%, 63%);
+}
 .learning p {
   margin: 4% 6%;
   font-weight: 500;
@@ -36,6 +39,8 @@ body {
   margin: 6% 6%;
   font-weight: 800;
   font-size: 150%;
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
 }
 .foundations p {
   margin: auto 6%;
@@ -53,6 +58,7 @@ body {
 .avatar p {
   margin: 2% 1%;
   font-weight: 800;
+  cursor: pointer;
 }
 
 .attribution {
